@@ -7,6 +7,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0875-koko-eating-bananas](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
