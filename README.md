@@ -9,6 +9,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0011-container-with-most-water](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -28,6 +29,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
@@ -62,4 +64,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0476-number-complement) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
