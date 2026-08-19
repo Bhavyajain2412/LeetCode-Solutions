@@ -6,6 +6,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0875-koko-eating-bananas](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -13,6 +14,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
@@ -49,4 +51,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
