@@ -55,4 +55,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Bhavyajain2412/LeetCode-Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
